@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652474819 source:c:\180c\180c-project\main.cpp
+	<iostream>
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<chrono>
+
